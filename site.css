@@ -23,6 +23,17 @@ main{
     padding: 35px;
     line-height: 1;
     font-size: 25px;
+    line-height: 10px;
+
+}
+
+ul{
     display: flex;
+    padding: 5px;
+    font-size: 20px;
+    list-style: none;
+    line-height: 0;
+    gap: 25px;
+
 }
 
